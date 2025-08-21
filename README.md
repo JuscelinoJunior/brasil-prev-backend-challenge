@@ -995,7 +995,7 @@ Exemplo de resposta da API:
 </details>
 
 ## Execução remota
-A API pode ser acessada com esse endereço: 
+A API pode ser acessada com esse endereço: https://brasil-prev-backend-challenge.onrender.com/jogo/simular
 
 ## Execução local
 ### Docker
